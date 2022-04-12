@@ -1,0 +1,3 @@
+City_ID,City,Country,Date,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed
+0,Seattle,US,2022-04-12 05:35:51,47.6062,-122.3321,44.67,75,20,11.5
+1,Seattle,US,2022-04-12 05:35:51,47.6062,-122.3321,44.67,75,20,11.5
