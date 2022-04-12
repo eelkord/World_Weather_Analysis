@@ -1,3 +1,7 @@
+# Adding config.py file
+weather_api_key="4d7f99ed63393f199b8ee3e47f974af9"
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
